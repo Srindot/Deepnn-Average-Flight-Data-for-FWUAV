@@ -60,5 +60,5 @@ pip install -r requirements.txt
 - Multi-Layer Perceptron (MLP)
 - Input features: Design and flight parameters
 - Output: Lift and induced drag predictions
-```
+
 
