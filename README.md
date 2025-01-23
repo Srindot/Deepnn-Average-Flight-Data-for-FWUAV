@@ -25,12 +25,6 @@ This project involves training a Multi-Layer Perceptron (MLP) model on flapping 
 - PyTorch 2.4.1
 - NVIDIA GPU with CUDA support
 
-### Key Python Packages
-```bash
-pip install torch==2.4.1+cu118 torchvision==0.19.1+cu118
-pip install numpy pandas scikit-learn
-
-
 ## Installation
 
 1. Clone the repository:
