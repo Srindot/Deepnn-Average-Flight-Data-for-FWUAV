@@ -1,6 +1,4 @@
 
-
-```markdown
 # Flapping Wing UAV Neural Network Model
 
 ## Project Description
@@ -31,7 +29,7 @@ This project involves training a Multi-Layer Perceptron (MLP) model on flapping 
 ```bash
 pip install torch==2.4.1+cu118 torchvision==0.19.1+cu118
 pip install numpy pandas scikit-learn
-```
+
 
 ## Installation
 
