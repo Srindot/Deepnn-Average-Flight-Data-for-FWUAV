@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch/ML
+*.pth
+*.pt
+*.pkl
+*.h5
+*.ckpt
+*.bin
+model_weights/
+saved_models/
+wandb/
+runs/
+logs/
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+*.swp
+*~
