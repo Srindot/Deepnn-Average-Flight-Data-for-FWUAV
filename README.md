@@ -1,6 +1,4 @@
-Absolutely! Here is the text formatted for a `README.md` file:
 
-```markdown
 # Flapping Wing UAV Neural Network Model
 
 ## Project Description
@@ -26,12 +24,6 @@ This project involves training a Multi-Layer Perceptron (MLP) model on flapping 
 - CUDA 11.8
 - PyTorch 2.4.1
 - NVIDIA GPU with CUDA support
-
-### Key Python Packages
-```bash
-pip install torch==2.4.1+cu118 torchvision==0.19.1+cu118
-pip install numpy pandas scikit-learn
-```
 
 ## Installation
 
@@ -62,5 +54,5 @@ pip install -r requirements.txt
 - Multi-Layer Perceptron (MLP)
 - Input features: Design and flight parameters
 - Output: Lift and induced drag predictions
-```
+
 
